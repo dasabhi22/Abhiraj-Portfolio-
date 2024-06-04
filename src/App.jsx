@@ -89,7 +89,7 @@ function App() {
                 Android app development, and data structures and algorithms.
                 </p>
                 <button className="px-8 shadow-gray-500 shadow-md py-5 mt-5 bg-gradient-to-t from-blue-500 rounded-full to-cyan-500 hover:from-blue-700 hover:to-cyan-700">
-                    <a href="https://drive.google.com/file/d/1qoLepQu27DgxSs297c6uOyeZlhpovUyK/view?usp=drive_link" target="_blank"  rel="noopener noreferrer">
+                    <a href="https://drive.google.com/file/d/1cvpqjETuovH0QF1Z-IG7x-AX4lFOeOwK/view?usp=drive_link" target="_blank"  rel="noopener noreferrer">
                       Download Resume
                     </a>
                 </button>
